@@ -1,9 +1,5 @@
-/.htaccess
-/bootstrap.min.css
 /Composer-Setup.exe
 /composer.json
 /composer.lock
 /composer.phar.sha256sum
-/notes_app.sql
-/sql.sql
 /vendor
