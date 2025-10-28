@@ -110,7 +110,7 @@ confirmResetBtn.addEventListener("click", async () => {
         }
 
         await loadNotes();
-        alert("🗑 Usunięto notatki o ID > 5.");
+        alert(" Usunięto notatki o ID > 5.");
     } catch (err) {
         console.error("Błąd:", err);
         alert("❌ Błąd sieci przy czyszczeniu notatek.");
